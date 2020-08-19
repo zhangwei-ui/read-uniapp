@@ -8,4 +8,4 @@
 在使用微信开发者工具进行调式时，需要在微信开发者平台进行注册申请一个微信api，后面都可以使用这个进行小程序的开发，测试。
 
 
-![image]https://github.com/zhangwei-ui/read-uniapp/tree/master/imgs
+
